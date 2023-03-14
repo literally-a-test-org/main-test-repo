@@ -1,1 +1,1 @@
-ascasc
+print("Hello, World")
